@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@heroicons/react": "^2.2.0",
+    "bcrypt": "^5.1.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "jsonwebtoken": "^9.0.2",
+    "lucide-react": "^0.460.0",
+    "mysql2": "^3.11.4",
+    "react-router-dom": "^7.0.1"
+  }
+}
