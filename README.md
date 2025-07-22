@@ -1,68 +1,68 @@
-# 🕒 TimeCraft – Timetable Management App
+# TimeCraft – Timetable Management App
 
 A comprehensive timetable management system built for educational institutions, enabling students and professors to view, manage, and interact with class schedules in real-time.
 
 ---
 
-## 🚀 Overview
+## Overview
 
 TimeCraft streamlines academic scheduling by offering a dynamic and user-friendly interface tailored for both students and professors. With features like real-time updates, class cancellation/postponement, and weekly schedule modifications, TimeCraft helps institutions efficiently manage their timetables.
 
 ---
 
-## ✨ Features
+## Features
 
-### 🔐 User Authentication
+### User Authentication
 - Secure registration and login
 - JWT-based authentication
 - Password hashing with Bcrypt
 - Role-based access: **Students** and **Professors**
 
-### 📅 Timetable Management
+### Timetable Management
 
-#### 👨‍🎓 Student Features
+#### Student Features
 - View personal class schedules
 - Receive real-time updates on changes
 - Track class cancellations and postponements
 
-#### 👨‍🏫 Professor Features
+#### Professor Features
 - View personal timetable
 - Cancel or postpone classes
 - Reschedule with:
   - Alternative time slots
   - Available classroom selection
 
-### 🧠 Unique Functionalities
+### Unique Functionalities
 - Temporary weekly modifications
 - Classroom availability tracking
 - Auto-reversion to original schedule after a week
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
-### 🌐 Frontend
+### Frontend
 - **React (Vite)**
 - React Router
 - State Management: Redux or Context API
 - Axios for HTTP requests
 - Tailwind CSS
 
-### 🖥️ Backend
+### Backend
 - **Node.js** with **Express.js**
 - JWT for auth, Bcrypt for password security
 - RESTful API structure
 
-### 🗄️ Database
+### Database
 - **MySQL**
 - Sequelize ORM
 
-### 🧰 Other Tools
+### Other Tools
 - Moment.js for date/time manipulation
 
 ---
 
-## ⚙️ Prerequisites
+## Prerequisites
 
 - Node.js (v16+)
 - npm or Yarn
@@ -75,7 +75,7 @@ TimeCraft streamlines academic scheduling by offering a dynamic and user-friendl
 ### 🔁 Clone the Repository
 
 ```bash
-git clone https://github.com/armaanmittalweb/timetable-management-app.git
+git clone https://github.com/DevanshKapoor/TimeCraft.git
 cd timetable-management-app
 ```
 
@@ -141,7 +141,7 @@ npm run dev
 
 ---
 
-## 🔒 Security Considerations
+## Security Considerations
 
 - JWT-based secure authentication
 - Password hashing with Bcrypt
@@ -151,7 +151,7 @@ npm run dev
 
 ---
 
-## 🤝 Contribution Guidelines
+## Contribution Guidelines
 
 1. Fork the repository
 2. Create a new feature branch
@@ -161,7 +161,7 @@ npm run dev
 
 ---
 
-## 📈 Future Roadmap
+## Future Roadmap
 
 - 📱 Mobile responsiveness
 - ✉️ Email/SMS notifications
@@ -170,13 +170,13 @@ npm run dev
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the **MIT License**.
 
 ---
 
-## 📬 Contact
+## Contact
 
 For suggestions or queries, feel free to contact:
 
